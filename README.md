@@ -1,6 +1,9 @@
-<h2 align="center">Hi, I'm Haruka👋🥰</h2>
 <div align="center">
-  
+
+<img alt="Hi, I'm Haruka👋🥰" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:FFE3EC,50:F05E86,100:FFE3EC&text=Hi,%20I'm%20Haruka👋🥰&section=header&reversal=false&textBg=false&fontSize=28&fontAlign=50&fontAlignY=39&fontColor=FFFFFF&animation=fadeIn" width="100%">
+
+
+
 👩🏻‍🎓 Studying C language at 42 London
 
 🗣️ Fluent in Japanese and English
@@ -13,6 +16,7 @@
 
 
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=haru0u0&theme=jolly&layout=compact" height="150"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=haru0u0&theme=jolly&hide_border=true&card_width=400" height="150">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=haru0u0&layout=compact&bg_color=end,FFAABB,F05E86&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF" height="150"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=haru0u0&hide_border=true&card_width=400&background=0,F05E86,FFAABB&stroke=FFFFFF&ring=FFFFFF&fire=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF" height="150">
+<img alt="footer" src="https://capsule-render.vercel.app/api?type=waving&height=60&color=0:FFE3EC,50:F05E86,100:FFE3EC&text=%20&section=footer&reversal=false&textBg=false&fontSize=28&fontAlign=50&fontAlignY=39&animation=fadeIn" width="100%">
 
 </div>
