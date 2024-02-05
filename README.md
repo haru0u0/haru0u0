@@ -4,7 +4,7 @@
 
 
 
-👩🏻‍🎓 Studying C language at 42 London
+👩🏻‍🎓 I am a student at 42 London
 
 🗣️ Fluent in Japanese and English
 
