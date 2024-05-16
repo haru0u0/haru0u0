@@ -10,7 +10,7 @@
 
 🫱🏾‍🫲🏻 You can also find me on [Twitter](https://twitter.com/haru0u0_) and [LinkedIn](https://www.linkedin.com/in/haruka-senzaki/)
 
-🤞🏻 Passionate for digital inclusion and educational equity
+🤞🏻 Advocate for digital inclusion and educational equity
 
 
 
