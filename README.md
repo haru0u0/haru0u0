@@ -1,10 +1,7 @@
 <div align="center">
 
-<img alt="Hi, I'm Haruka👋🥰" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:FFE3EC,50:F05E86,100:FFE3EC&text=Hi,%20I'm%20Haruka👋🥰&section=header&reversal=false&textBg=false&fontSize=28&fontAlign=50&fontAlignY=39&fontColor=FFFFFF&animation=fadeIn" width="100%">
+<img alt="Hi, I'm Haruka👋🥰" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:FFE3EC,50:F05E86,100:FFE3EC&text=Hi,%20I'm%20Haruka👋🥰&section=header&reversal=false&textBg=false&fontSize=28&fontAlign=50&fontAlignY=39&fontColor=FFFFFF&animation=fadeIn" width="100%">
 
-
-
-👩🏻‍🎓 I am a student at 42 London
 
 ✏️ Write on [Zenn](https://zenn.dev/haru0u0) (tech) and [personal blog](https://blog.haru0u0.com/) (non-tech)
 
